@@ -15,18 +15,26 @@ h1 {
 
 form {
     background-color: lightgrey;
-    width: 300px;
+    width: 500px;
     border: 15px solid black;
     padding: 50px;
-    margin: 20px;
     text-align: center;
     display: inline-block;
+    margin-top: 50px;
 }
+
 
 h3{
     text-shadow: 4px 4px 4px #aaa;  
 }
 
-.containerProtfolio {
-
+.containerProtfolio, .containerSocial, .contactForm {
+    text-align: center;
 }
+
+.img-fluid {
+    width:100%;
+    opacity: 0.7;
+    background: url(https://us.123rf.com/450wm/peshkov/peshkov1506/peshkov150600008/41023430-blank-black-diary-and-accessories.jpg?ver=6);
+}
+
