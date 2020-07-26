@@ -41,6 +41,7 @@ h3{
 
 .containerProtfolio, .contactForm {
     text-align: center;
+    background-color: #aaa;
 }
 
 .containerSocial {
