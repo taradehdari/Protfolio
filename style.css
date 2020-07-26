@@ -39,8 +39,14 @@ h3{
     text-shadow: 4px 4px 4px #aaa;  
 }
 
-.containerProtfolio, .containerSocial, .contactForm {
+.containerProtfolio, .contactForm {
     text-align: center;
+}
+
+.containerSocial {
+    text-align: center;
+    background-color: #aaa;
+    padding-top: 20px;
 }
 
 .img-fluid {
@@ -53,4 +59,5 @@ h3{
 footer {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #aaa;
 }
