@@ -25,14 +25,15 @@ html,body {
 	font-size: 26px;
 	padding:15px 0; 
 	border: 2px solid #fff;
-	transition:.3s;
+    transition:.3s;
 }
+
 #button_open_envelope:hover{
 	background: #FFf;
 	color: #2b67cb;
 	transform:scale(1.1);
 	transition:background .25s, transform .5s,ease-in;
-	cursor: pointer;
+    cursor: pointer;
 }
 .message{
 	position: relative;

@@ -46,8 +46,9 @@ h3{
 
 .containerSocial {
     text-align: center;
-    background-color: #aaa;
-    padding-top: 20px;
+    background-color:#212529;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .img-fluid {
@@ -61,7 +62,18 @@ h3{
 
 
 footer {
+	color: coral;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #aaa;
+    background-color: #212529;
+}
+
+.Image {
+	background-color: black;
+	padding-top: 40px;
+}
+
+.footer {
+	margin-top: 40px;
+	margin-bottom: 0px;
 }
