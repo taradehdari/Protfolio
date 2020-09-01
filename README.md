@@ -1,3 +1,15 @@
-For this project I made a protfolio to show case my future projects. I made this page so that when I apply to future jobs I have a website to show them all of my work. I had difficulty getting the navbar to work on each page, but I fixed my mistake by adding the script tag to each page. 
-This project was able to highlight my weaknesses and strengths. I realized that I need to work on how to position items on a page well, and my strengths are that I am good at catching little mistakes throughout my code. 
-For the future, I plan on adding my projects to the protfolio tab on the navbar, and changing the pictures to correspond to the project. I would make an anchor tag to link the picture to my github repository. 
+This is a protfolio that showcases all of my work and shows my contact info as well. I have included some javascript to create a funcitoning contact page.
+
+Github Link:
+https://taradehdari.github.io/Protfolio/
+
+
+about me page:
+<img src="Assets/Images/Screenshot (41).png"/>
+
+Protfolio page: 
+<img src="Assets/Images/Screenshot (74).png"/>
+
+contact page:
+
+
