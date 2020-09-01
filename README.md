@@ -11,5 +11,5 @@ Protfolio page:
 <img src="Assets/Images/Screenshot (74).png"/>
 
 contact page:
-
+<img src="Assets/Images/Screenshot (75).png"/>
 
